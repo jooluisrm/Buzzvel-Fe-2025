@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import "./globals.css";
+import { HeaderMain } from "@/components/header/headerMain";
 
 
 const roboto = Roboto({
@@ -24,7 +25,8 @@ export default function RootLayout({
             <body
                 className="vsc-initialized"
                 cz-shortcut-listen="true"
-            >
+            >   
+                <HeaderMain />
                 {children}
             </body>
         </html >
