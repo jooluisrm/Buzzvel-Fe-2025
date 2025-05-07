@@ -1,9 +1,11 @@
 import { LeftSide } from "./leftSide";
+import { RightSide } from "./rightSide";
 
 export const Section2Main = () => {
     return (
-        <main className="py-[48px] px-4 container mx-auto">
+        <main>
             <LeftSide />
+            <RightSide />
         </main>
     );
 }
