@@ -24,7 +24,7 @@ export default function RootLayout({
     return (
         <html lang="pt-BR">
             <body
-                className="vsc-initialized"
+                className="vsc-initialized overflow-x-hidden"
                 cz-shortcut-listen="true"
             >   
                 <HeaderMain />
