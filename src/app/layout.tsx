@@ -14,6 +14,11 @@ const roboto = Roboto({
 export const metadata: Metadata = {
     title: "Teach",
     description: "Buzzvel-FE - Teste 2025",
+    icons: {
+        icon: [
+            { url: "/favicon.png", sizes: "30x30", type: "image/png" }
+          ]
+    }
 };
 
 export default function RootLayout({
