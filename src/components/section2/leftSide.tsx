@@ -6,7 +6,7 @@ export const LeftSide = () => {
         <div className="py-[48px] px-4">
             <div className="flex flex-col gap-[32px]">
                 <div className="flex flex-col gap-[24px]">
-                    <h1 className="text-[24px] font-bold lg:text-[56px] lg:font-extrabold">
+                    <h1 className="text-[24px] font-bold lg:text-[56px] lg:font-extrabold leading-tight">
                         An <span className="relative inline-block custom-marker">all-in-one</span>{' '} app that makes it easier
                     </h1>
                     <p className="text-[16px] lg:hidden">

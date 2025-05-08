@@ -6,7 +6,7 @@ export const LeftSide = () => {
     return (
         <div className="flex flex-col gap-[32px]">
             <div className="flex flex-col gap-[32px]">
-                <h1 className="text-[40px] font-bold lg:text-[72px]">
+                <h1 className="text-[40px] font-bold lg:text-[72px] leading-tight">
                     <span className="relative inline-block custom-marker">Teach</span>{' '}
                     students worldwide
                 </h1>
