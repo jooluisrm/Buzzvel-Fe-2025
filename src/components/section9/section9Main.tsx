@@ -19,7 +19,7 @@ export const Section9Main = () => {
 
             </form>
 
-            <button className="bg-[#0F172A] text-[20px] font-medium w-[200px] h-[56px] rounded-lg lg:w-[260px] lg:[64px] lg:text-[24px] lg:font-bold">Request Demo</button>
+            <button className="bg-[#0F172A] text-[20px] font-medium w-[200px] h-[56px] rounded-lg lg:w-[260px] lg:[64px] lg:text-[24px] lg:font-bold cursor-pointer">Request Demo</button>
         </main>
     );
 }
