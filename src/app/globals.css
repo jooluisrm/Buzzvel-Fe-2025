@@ -37,3 +37,12 @@ body {
   border-radius: 0.2em;
   transform: rotate(-2deg);
 }
+
+/* styles/globals.css ou tailwind.css */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
