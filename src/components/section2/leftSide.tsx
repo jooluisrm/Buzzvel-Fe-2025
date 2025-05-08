@@ -1,5 +1,6 @@
 import { ArrowBigRight, ArrowRight, Check } from "lucide-react";
 import Link from "next/link";
+import { LinkBlue } from "../reuse/linkBlue";
 
 export const LeftSide = () => {
     return (
@@ -20,7 +21,7 @@ export const LeftSide = () => {
                     <li className="flex items-center gap-2"><span><Check size={15} /></span>Ullamcorper ornare in et egestas dolor orci.</li>
                 </ul>
 
-                <button className="text-[16px] text-[#2563EB] font-medium lg:text-[20px]"><Link href={`#`} className="flex gap-2">Find more about the app <ArrowRight /></Link></button>
+                <LinkBlue text="Find more about the app"/>
             </div>
         </div>
 

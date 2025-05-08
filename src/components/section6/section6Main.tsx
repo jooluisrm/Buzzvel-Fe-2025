@@ -11,7 +11,7 @@ export const Section6Main = () => {
 
   const scrollLeft = () => {
     if (scrollRef.current) scrollRef.current.scrollLeft -= 300;
-  };
+  }; 
 
   const scrollRight = () => {
     if (scrollRef.current) scrollRef.current.scrollLeft += 300;

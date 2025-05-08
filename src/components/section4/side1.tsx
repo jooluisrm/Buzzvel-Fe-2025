@@ -1,5 +1,6 @@
 import { ArrowRight, PlaneTakeoff } from "lucide-react";
 import Link from "next/link";
+import { LinkBlue } from "../reuse/linkBlue";
 
 export const Side1 = () => {
     return (
@@ -21,7 +22,7 @@ export const Side1 = () => {
                     Eget commodo eget in aliquam facilisi facilisi nec magna hendrerit. Placerat ipsum sit tellus urna, faucibus aenean lorem faucibus integer.
                 </p>
             </div>
-            <button className="text-[16px] font-medium lg:text-[20px]"><Link href={`#`} className="flex flex-row gap-3 text-[#2563EB]">Explore teachers and students <ArrowRight /></Link></button>
+            <LinkBlue text="Explore teachers and students"/>
         </div>
     );
 }
