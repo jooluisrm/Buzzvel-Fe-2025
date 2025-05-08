@@ -20,7 +20,7 @@ export const ItemSection2 = ({ categoy, title, text }: Props) => {
             <p className="text-[12px] text-[#475569] lg:text-[14px]">{text}</p>
           </div>
         </div>
-        <button className="mt-4 py-[8px] px-[12px] font-medium text-[14px] text-[#2563EB] border-2 border-[#2563EB] rounded-lg cursor-pointer">
+        <button className="mt-4 py-[8px] px-[12px] font-medium text-[14px] text-[#2563EB] border-2 border-[#2563EB] rounded-lg cursor-pointer hover:bg-[#2563EB] hover:text-white transition-all">
           Take Lesson
         </button>
       </div>
