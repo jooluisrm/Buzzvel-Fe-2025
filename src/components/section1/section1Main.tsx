@@ -3,7 +3,7 @@ import { RightSide } from "./rightSide";
 
 export const Section1Main = () => {
     return (
-        <main className="container mx-auto py-[48px] px-4  lg:py-[24px] lg:px-[80px] flex flex-col gap-[48px] lg:grid lg:grid-cols-2">
+        <main className="container mx-auto py-[48px] px-4  lg:py-[24px] lg:px-[80px] flex flex-col gap-[48px] md:grid md:grid-cols-2">
             <LeftSide />
             <RightSide />
         </main>

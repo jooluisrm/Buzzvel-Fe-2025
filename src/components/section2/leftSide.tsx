@@ -4,7 +4,7 @@ import { LinkBlue } from "../reuse/linkBlue";
 
 export const LeftSide = () => {
     return (
-        <div className="py-[48px] px-4">
+        <div className="py-[48px] px-4 md:px-0">
             <div className="flex flex-col gap-[32px]">
                 <div className="flex flex-col gap-[24px]">
                     <h1 className="text-[24px] font-bold lg:text-[56px] lg:font-extrabold leading-tight">

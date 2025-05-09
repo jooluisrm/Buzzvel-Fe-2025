@@ -5,7 +5,7 @@ import CarrosselSection2 from "./CarrosselSection2";
 export const RightSide = () => {
     return (
         <>
-            <div className="relative w-fit h-fit lg:hidden">
+            <div className="relative w-fit h-fit md:hidden">
                 <Image
                     alt="fundo"
                     src={"/assets/imgs/Blob.png"}
@@ -26,7 +26,7 @@ export const RightSide = () => {
                 </div>
             </div>
 
-            <div className="hidden lg:flex lg:flex-col">
+            <div className="hidden md:flex md:flex-col">
                 <Image
                     alt="fundo"
                     src={"/assets/imgs/Blobpc.png"}
