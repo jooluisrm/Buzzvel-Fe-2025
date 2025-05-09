@@ -38,7 +38,7 @@ export const LeftSide = () => {
                     <Image className="" alt="companies" src={`/assets/imgs/img2pc.png`} width={30} height={25} />
                     <Image className="" alt="companies" src={`/assets/imgs/img3pc.png`} width={30} height={25} />
                     <Image className="" alt="companies" src={`/assets/imgs/img4pc.png`} width={30} height={25} />
-                    <Image className="" alt="companies" src={`/assets/imgs/img5pc.png`} width={30} height={25} />
+                    <Image alt="companies" src={`/assets/imgs/img5pc.png`} width={30} height={25} />
                 </div>
             </div>
         </div>
