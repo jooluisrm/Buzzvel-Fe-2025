@@ -15,6 +15,11 @@ Este projeto é uma **landing page responsiva**, desenvolvida como parte de um *
 
 Olá! Me chamo João Luís, sou estudante de Bacharelado em Sistemas de Informação e desenvolvedor web com foco em frontend. Tenho experiência com React, Next.js, TypeScript, Tailwind CSS, e outras ferramentas modernas do ecossistema JavaScript. 
 
+## 🌐 Acesse o Projeto Online
+
+Você pode visualizar a landing page publicada através do link abaixo:
+🔗 **[Clique aqui para acessar o site](https://buzzvel-fe-2025.vercel.app/)**
+
 ## ⚙️ Como rodar o projeto localmente
 
 1. **Clone o repositório**
