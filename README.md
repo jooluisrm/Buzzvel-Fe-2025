@@ -1,4 +1,4 @@
-# 🚀 Buzzvel 2025 - Frontend Developer Test
+# 🚀 Buzzvel 2025 - Frontend Developer Test - João Luís Rodrigues de Moura
 
 Este projeto é uma **landing page responsiva**, desenvolvida como parte de um **teste prático** para o processo seletivo da **Buzzvel (Dream Team - 2025)**. A proposta foi seguir fielmente um design fornecido, aplicando boas práticas de desenvolvimento e foco em performance, responsividade e interatividade.
 
@@ -11,9 +11,9 @@ Este projeto é uma **landing page responsiva**, desenvolvida como parte de um *
 - [GSAP (GreenSock Animation Platform)](https://gsap.com/)
 - [Keen Slider](https://keen-slider.io/) (para carrosséis/sliders)
 
-## 📸 Preview
+## 👨‍💻 Sobre o desenvolvedor
 
-> *(Adicione aqui um GIF ou uma imagem da landing page, se desejar)*
+Olá! Me chamo João Luís, sou estudante de Bacharelado em Sistemas de Informação e desenvolvedor web com foco em frontend. Tenho experiência com React, Next.js, TypeScript, Tailwind CSS, e outras ferramentas modernas do ecossistema JavaScript. 
 
 ## ⚙️ Como rodar o projeto localmente
 
@@ -35,7 +35,3 @@ Este projeto é uma **landing page responsiva**, desenvolvida como parte de um *
     yarn dev
    ```
 4. **Acesse o projeto em: http://localhost:3000**
-
-## 👨‍💻 Sobre o desenvolvedor
-
-Olá! Me chamo João Luís, sou estudante de Bacharelado em Sistemas de Informação e desenvolvedor web com foco em frontend. Tenho experiência com React, Next.js, TypeScript, Tailwind CSS, e outras ferramentas modernas do ecossistema JavaScript. 
