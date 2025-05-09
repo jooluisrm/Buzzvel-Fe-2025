@@ -113,7 +113,13 @@ export const Page = () => {
         });
 
         return () => {
-            gsap.killTweensOf(".scroll-reveal");
+            gsap.killTweensOf(".scroll-reveal2");
+            gsap.killTweensOf(".scroll-reveal3");
+            gsap.killTweensOf(".scroll-reveal4");
+            gsap.killTweensOf(".scroll-reveal5");
+            gsap.killTweensOf(".scroll-reveal6");
+            gsap.killTweensOf(".scroll-reveal7");
+            gsap.killTweensOf(".scroll-reveal8");
         }
     }, []);
 
