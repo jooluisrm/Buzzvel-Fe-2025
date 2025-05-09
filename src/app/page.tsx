@@ -18,7 +18,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 gsap.registerPlugin(ScrollTrigger);
 
-export const Page = () => {
+const Page = () => {
 
     useLayoutEffect(() => {
         gsap.registerPlugin(ScrollTrigger);
