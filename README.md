@@ -24,8 +24,8 @@ Você pode visualizar a landing page publicada através do link abaixo:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/jooluisrm/Buzzvel-Fe-2025
+   cd Buzzvel-Fe-2025
    ```
 2. **Instale as dependências**
    ```bash
